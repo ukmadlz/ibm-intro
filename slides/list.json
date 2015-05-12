@@ -12,5 +12,11 @@
             "id": "author"
         }
     },
-    "cloudant.md"
+    ["cloudant.md",
+    {
+        "filename": "http-all-the-things.md",
+        "attr": {
+            "data-background": "images/all-the-things.jpg"
+        }
+    }]
 ]
