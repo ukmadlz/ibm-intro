@@ -12,11 +12,38 @@
             "id": "author"
         }
     },
-    ["cloudant.md",
-    {
-        "filename": "http-all-the-things.md",
-        "attr": {
-            "data-background": "images/all-the-things.jpg"
-        }
-    }]
+    [
+        "cloudant.md",
+        "couchdb.md"
+    ],
+    [
+        {
+            "filename": "http-all-the-things.md",
+            "attr": {
+                "data-background": "images/all-the-things.jpg"
+            }
+        },
+        {
+            "filename": "replication.md",
+            "attr": {
+                "data-background": "images/replication.gif"
+            }
+        },
+        {
+            "filename": "views.md",
+            "attr": {
+                "data-background": "images/lookup.gif"
+            }
+        },
+        {
+            "filename": "search.md",
+            "attr": {
+                "data-background": "images/search.gif"
+            }
+        },
+        {"filename":"geo.md",
+        "attr":{
+          "data-background": "images/geo.gif"
+          }}
+    ]
 ]
