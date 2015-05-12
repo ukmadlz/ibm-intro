@@ -41,9 +41,25 @@
                 "data-background": "images/search.gif"
             }
         },
-        {"filename":"geo.md",
-        "attr":{
-          "data-background": "images/geo.gif"
-          }}
+        {
+            "filename": "geo.md",
+            "attr": {
+                "data-background": "images/geo.gif"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "what-you-can-do.md",
+            "attr": {
+                "data-background": "images/do-it.gif"
+            }
+        },
+        {
+            "filename": "offline.md",
+            "attr": {
+                "data-background": "images/offline.gif"
+            }
+        }
     ]
 ]
