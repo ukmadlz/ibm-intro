@@ -30,13 +30,20 @@
             }
         },
         {
-          "filename": "views.md",
-          "attr": {
-            "data-background": "images/lookup.gif"
-            }},
-        {"filename":"search.md",
+            "filename": "views.md",
+            "attr": {
+                "data-background": "images/lookup.gif"
+            }
+        },
+        {
+            "filename": "search.md",
+            "attr": {
+                "data-background": "images/search.gif"
+            }
+        },
+        {"filename":"geo.md",
         "attr":{
-          "data-background": "images/search.gif"
+          "data-background": "images/geo.gif"
           }}
     ]
 ]
