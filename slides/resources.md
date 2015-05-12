@@ -1,3 +1,3 @@
 ##  Resources
 
-This is a new Markdown slide
+[http://cloudant.com](http://cloudant.com)

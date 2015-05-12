@@ -60,6 +60,12 @@
             "attr": {
                 "data-background": "images/offline.gif"
             }
+        },
+        {
+            "filename": "mind-blown.md",
+            "attr": {
+                "data-background": "images/mind-blown.gif"
+            }
         }
     ],
     "resources.md"
