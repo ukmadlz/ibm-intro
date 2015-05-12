@@ -12,11 +12,19 @@
             "id": "author"
         }
     },
-    ["cloudant.md",
-    {
+    [
+        "cloudant.md",
+        "couchdb.md"
+    ],
+    [{
         "filename": "http-all-the-things.md",
         "attr": {
             "data-background": "images/all-the-things.jpg"
         }
-    }]
+    },
+    {
+      "filename": "replication.md",
+      "attr": {
+        "data-background": "https://media2.giphy.com/media/eMUqdheSglNM4/200.gif"
+        }}]
 ]
