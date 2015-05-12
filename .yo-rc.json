@@ -1,0 +1,16 @@
+{
+  "generator-cloudant-talk": {
+    "presentationTitle": "IBM Intro",
+    "presentationSubTitle": "",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "cloudant",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "ibm-intro",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "Developer Advocate",
+    "authorEmail": "mike.elsmore@cloudant.com"
+  }
+}
